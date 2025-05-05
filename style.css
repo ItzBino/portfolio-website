@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(252, 252, 252);
+}
+
+
+.navbar{
+    background-color: rgb(35, 199, 185);
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.logo{
+    height: 2rem;
+}
+
+#skills{
+    margin: 5rem 0;
+}
+
+#skills h1{
+    text-align: center;
+}
+
+.skill-content h5{
+   margin: 35px 0;
+}
+
+.icon-skill{
+    height: 6rem;
+    width: 6rem;
+}
+
+#projects{
+    margin-bottom: 5rem;
+}
+
+#projects h1{
+    text-align: center;
+}
+
+.contact-image{
+    height: 19rem;
+}
+
+footer{
+    background-color: rgb(35, 199, 185);
+    
+}
+
+footer span{
+    color: white;
+}
